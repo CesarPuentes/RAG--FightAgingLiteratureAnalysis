@@ -21,7 +21,7 @@ The original content can be found at https://www.fightaging.org/.
 
 # Demonstration of a simple RAG Application
 
-![Demonstration of the feature](sample.gif)
+![Demonstration of the feature](sample.png)
 
 # Conclusion
 
